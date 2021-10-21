@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love burger
 
-<!--
 ![ My Github Stats](https://github-readme-stats.vercel.app/api?username=akshat2109&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2109&layout=compact&theme=chartreuse-dark)
 
--->
