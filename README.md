@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with
 -->
-- 🔭 I’m currently working on ML projects
-- 🌱 I’m currently learning Google Cloud
+- 🔭 I’m currently working on Dev 
+- 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about being yourself
 - 📫 How to reach me: akshatmishra20k@gmail.com
